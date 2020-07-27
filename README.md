@@ -11,7 +11,7 @@ install.packages("devtools")
 Then, you basically install the `venneR` package by using:
 ```r
 library(devtools)
-install_github("altintasali/pheatmap2")
+install_github("altintasali/venneR")
 ```
 
 ## Usage
