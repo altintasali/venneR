@@ -1,0 +1,13 @@
+Package: venneR
+Type: Package
+Title: Easy Venn Diagrams with R
+Version: 0.1.0
+Author: Ali Altintas
+Maintainer: Ali Altintas <altintas.ali@gmail.com>
+Description: Generates Venn diagrams and checks whether pairwise set intersections are statistically significant
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: VennDiagram, GeneOverlap, magrittr, data.table, grid, gridExtra, cowplot, RColorBrewer, scales, futile.logger
+
