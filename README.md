@@ -20,8 +20,8 @@ library(venneR)
 
 # Generate artificial sets
 x <- list(A=c(letters[1:5]),
-         B=c(letters[3:10]),
-         C=c(letters[10:15]))
+          B=c(letters[3:10]),
+          C=c(letters[10:15]))
 universe <- length(letters)
 
 # Plot 'all' Venn diagrams
